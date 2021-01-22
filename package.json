@@ -1,0 +1,29 @@
+{
+  "name": "end2end",
+  "version": "1.0.0",
+  "description": "Functional testing",
+  "main": "nightwatch.conf.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GBeauny/end2end_test.git"
+  },
+  "author": "MDS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GBeauny/end2end_test/issues"
+  },
+  "homepage": "https://github.com/GBeauny/end2end_test#readme",
+  "dependencies": {
+    "add": "^2.0.6",
+    "chromedriver": "^87.0.7",
+    "geckodriver": "^1.21.1",
+    "nightwatch": "^1.5.1",
+    "selenium-server": "^3.141.59"
+  }
+}

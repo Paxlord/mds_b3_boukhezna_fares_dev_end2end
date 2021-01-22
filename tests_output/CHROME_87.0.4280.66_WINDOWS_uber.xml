@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="uber"
+    errors="0" failures="1" hostname="" id="" package="uber" skipped="0"
+    tests="1" time="11.23" timestamp="">
+  
+    <testcase name="Demo test ecosia.org" classname="uber" time="11.23" assertions="5">
+
+    
+
+    
+
+    
+
+      <failure message="Testing if element &lt;.mainline-results&gt; contains text &#39;Nightwatch.js&#39; in 5000ms - expected &#34;contains text &#39;Nightwatch.js&#39;&#34; but got: &#34;does not contain &#39;Nightwatch.js&#39;&#34; (5256ms)">    at DescribeInstance.&lt;anonymous&gt; (/Users/geobeaun/Documents/MDS/nightwatchjs/end2end_test/tests/uber.js:13:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
