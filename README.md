@@ -1,5 +1,3 @@
-Pour lancer les tests :
+# How to launch the tests ?
 
-Revoir le fichier package.json :
-
-> ./node_modules/.bin/nightwatch ./tests/uber.js
+Install with npm i then npm test
